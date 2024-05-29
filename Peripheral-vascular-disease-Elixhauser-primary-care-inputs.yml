@@ -1,0 +1,207 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-nonruptured---primary.py
+inputModule3:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-translumin---primary.py
+inputModule4:
+  class: File
+  path: python/axillary-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-emerg---primary.py
+inputModule6:
+  class: File
+  path: python/arteriovenous-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-aortouniiliac---primary.py
+inputModule8:
+  class: File
+  path: python/renal-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-pedis---primary.py
+inputModule10:
+  class: File
+  path: python/aneurysmal-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/brachial-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-replace---primary.py
+inputModule13:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-anastom---primary.py
+inputModule14:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-segment---primary.py
+inputModule15:
+  class: File
+  path: python/intermittent-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-endov---primary.py
+inputModule17:
+  class: File
+  path: python/tibial-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/thoracoabdominal-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule19:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-graft---primary.py
+inputModule20:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-atherosclerosis---primary.py
+inputModule21:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-atheroma---primary.py
+inputModule22:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-anomaly---primary.py
+inputModule23:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-gangrene---primary.py
+inputModule24:
+  class: File
+  path: python/superficial-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-peron---primary.py
+inputModule26:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-claudication---primary.py
+inputModule27:
+  class: File
+  path: python/visceral-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-thrombosis---primary.py
+inputModule29:
+  class: File
+  path: python/splenic-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule30:
+  class: File
+  path: python/internal-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule31:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-ulcer---primary.py
+inputModule32:
+  class: File
+  path: python/infrarenal-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule33:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-ischaemia---primary.py
+inputModule34:
+  class: File
+  path: python/carotid-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule35:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule36:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-obliteran---primary.py
+inputModule37:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-unspecified---primary.py
+inputModule38:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-endarterectomy---primary.py
+inputModule39:
+  class: File
+  path: python/cerebral-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule40:
+  class: File
+  path: python/other-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule41:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-bifurc---primary.py
+inputModule42:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-subclavian---primary.py
+inputModule43:
+  class: File
+  path: python/external-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule44:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-prosth---primary.py
+inputModule45:
+  class: File
+  path: python/arterial-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule46:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-letter---primary.py
+inputModule47:
+  class: File
+  path: python/superior-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule48:
+  class: File
+  path: python/common-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule49:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-operation---primary.py
+inputModule50:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-ulnar---primary.py
+inputModule51:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-repair---primary.py
+inputModule52:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-monitoring---primary.py
+inputModule53:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-embolectomy---primary.py
+inputModule54:
+  class: File
+  path: python/popliteal-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule55:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-reconstruction---primary.py
+inputModule56:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-buerger's---primary.py
+inputModule57:
+  class: File
+  path: python/congenital-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule58:
+  class: File
+  path: python/radial-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule59:
+  class: File
+  path: python/femoral-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule60:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-posterior---primary.py
+inputModule61:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-inferior---primary.py
+inputModule62:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-extremity---primary.py
+inputModule63:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-dissection---primary.py
+inputModule64:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-pvd---primary.py
+inputModule65:
+  class: File
+  path: python/hepatic-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule66:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-anterior---primary.py
+inputModule67:
+  class: File
+  path: python/peripheral-vascular-disease-elixhauser-primary-care-coeliac---primary.py
+inputModule68:
+  class: File
+  path: python/single-peripheral-vascular-disease-elixhauser-primary-care---primary.py
+inputModule69:
+  class: File
+  path: python/output-cases.py
